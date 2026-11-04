@@ -1,2 +1,2 @@
-d976aa42de23c8b20ecc44276edff6b80c27dc88f68ff7756af117a5823e7377  downloads/nirapod-family-child-debug.apk
-46856213429c11dd7469ddf7cee50d4f7a3cca056b28ad7c9e7774585fddb11e  downloads/nirapod-family-parent-debug.apk
+9c7fb0be2f07d3688fb8d2a7aa403c94593686f39dd45194c6cebd1468e4a790  downloads/nirapod-family-child-debug.apk
+0a35ba30a97a186e8a16a5ae8f55fd1bb4e4c478372a668bf261aeae61e92491  downloads/nirapod-family-parent-debug.apk
